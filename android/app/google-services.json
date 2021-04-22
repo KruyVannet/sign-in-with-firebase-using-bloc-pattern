@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654955651661",
+    "project_id": "bloc-demo-signin",
+    "storage_bucket": "bloc-demo-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654955651661:android:9ed777a84e37209f753204",
+        "android_client_info": {
+          "package_name": "com.chhiv.bloc_demo_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654955651661-oh2bek066h6ne62bgi8r4doalbcid4a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlntkbdAJGCNSpT7E4ovG7tl1ot48hXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654955651661-oh2bek066h6ne62bgi8r4doalbcid4a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

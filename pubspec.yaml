@@ -1,0 +1,37 @@
+name: bloc_demo_sign_in
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.0
+  firebase_auth: any
+  google_sign_in: any
+  flutter_bloc: any
+  equatable: any
+  meta: any
+  font_awesome_flutter: any
+  flutter_signin_button: any
+  firebase_core: any
+  cloud_firestore: any
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+
